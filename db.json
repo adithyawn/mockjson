@@ -119,6 +119,46 @@
             "body":"Mind maps boost productivity but can get very messy. Choosing the right approach and apps will give you an edge. Here’s my go-to strategy",
             "cover":"https://images.unsplash.com/photo-1496112576525-8b31e9ce4872?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
             "postdate":"30 Oktober 2020"
+        },
+        {
+            "username":"Vanessa Nurmalita",
+            "photo":"https://images.unsplash.com/profile-1604907594249-8d149aaf87beimage?dpr=2&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+            "title":"Want to Fix Your Own Tesla? Massachusetts Just Made It Easier",
+            "body":"The company may soon have to give its customers a wider peek under the digital hood",
+            "cover":"https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "postdate":"30 Oktober 2020"
+        },
+        {
+            "username":"Sartika Anisah",
+            "photo":"https://images.unsplash.com/profile-fb-1599732338-2f306e8de95c.jpg?dpr=2&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+            "title":"We Need a New Rural-By-Design Connectivity Technology Ecosystem",
+            "body":"With the unforgettable 2020 US Presidential election finally starting to fade in the rearview mirror, it’s time to return to discussions about what needs to be done to stimulate our ailing economy, ensure that all of us can succeed in the new normal",
+            "cover":"https://images.unsplash.com/photo-1572721546624-05bf65ad7679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80",
+            "postdate":"30 Oktober 2020"
+        },
+        {
+            "username":"Anjar Tri Astuti",
+            "photo":"https://images.unsplash.com/profile-1557591877810-8a0bd8c33e2f?dpr=2&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+            "title":"The quest for a good AMD Ryzen Notebook with Linux support - Winner: Lenovo Thinkpad L15",
+            "body":"Comparison of notebooks for Linux on the go. Including stories and experiences of 64GB RAM, external screen options, and hardware hacks",
+            "cover":"https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80",
+            "postdate":"30 Oktober 2020"
+        },
+        {
+            "username":"Reinhart Marpaung",
+            "photo":"https://images.unsplash.com/profile-1553878049540-11672ec9cbc7?dpr=2&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+            "title":"Future Batteries Could be Made Out of Viruses",
+            "body":"Viruses, nature’s microscopic zombies, can be selectively engineered to function as a scaffold for materials used in battery electrodes.",
+            "cover":"https://images.unsplash.com/photo-1576834975354-ee694be1f0d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "postdate":"30 Oktober 2020"
+        },
+        {
+            "username":"Anneesha Fairuz",
+            "photo":"https://images.unsplash.com/profile-1604846605837-8ce822ce8868image?dpr=2&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+            "title":"This Thanksgiving, Be Careful What You Post on Instagram",
+            "body":"Last spring, on the first nice day of the year and at the height of the pandemic in New York City, my partner and I made a serious mistake",
+            "cover":"https://images.unsplash.com/photo-1538883689728-2c32af36a313?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "postdate":"30 Oktober 2020"
         }
     ]
 }
